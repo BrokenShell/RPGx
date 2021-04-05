@@ -72,7 +72,7 @@ A simple RPG to illustrate the capabilities of the Python programming language.
     - Magma Demon
     - Pit Lord
 
-## Creatures
+## Creatures by Terrain
 - Forest
 - Swamp
 - Mountain
